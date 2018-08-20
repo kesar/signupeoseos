@@ -1,5 +1,5 @@
-CMakeLists.txt
+.vscode
+build
 .idea
-cmake-build-debug
 *.wast
 *.wasm

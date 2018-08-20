@@ -6,7 +6,9 @@
 #include <eosiolib/asset.hpp>
 #include <eosiolib/types.hpp>
 #include <eosiolib/action.hpp>
-
+#include <eosiolib/symbol.hpp>
+#include <eosiolib/crypto.h>
+#include <cstring>
 using namespace eosio;
 using namespace std;
 
